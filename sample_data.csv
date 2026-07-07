@@ -1,0 +1,9 @@
+region,product,amount,quantity,customer_id
+North,Widget,100.50,10,C001
+North,Gadget,200.00,5,C002
+South,Widget,150.25,7,C001
+South,Gadget,300.75,12,C003
+North,Widget,120.00,8,C004
+West,Widget,90.00,3,C002
+West,Gadget,410.00,15,C005
+South,Widget,60.50,4,C001
